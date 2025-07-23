@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hola, soy un programador junior enfocado en el desarrollo web, teniendo experiencias en proyectos Frontend utilizando tecnologias como, HTML, CSS , JavaScript.
 <!--
 **Santi1718/Santi1718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
