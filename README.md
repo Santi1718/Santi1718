@@ -1,15 +1,28 @@
 ## Hola, soy un programador junior enfocado en el desarrollo web, teniendo experiencias en proyectos Frontend utilizando tecnologias como, HTML, CSS , JavaScript.
-<!--
-**Santi1718/Santi1718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## habilidades blandas 
+🗣️ Comunicación asertiva
 
-Here are some ideas to get you started:
+🤝 Trabajo en equipo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔄 Adaptabilidad
+
+🧠 Pensamiento crítico
+
+🛠️ Resolución de problemas
+
+💞 Empatía
+
+⏳ Gestión del tiempo
+
+👂 Escucha activa
+
+🧭 Liderazgo
+
+😌 Manejo del estrés
+
+## Lenguajes y Tecnolgias manejadas
+🌐 HTML
+
+🎨 CSS –
+
+⚙️ JavaScript.
