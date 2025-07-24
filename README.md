@@ -1,81 +1,103 @@
-<h1 align="center">Holaa, soy Santiago Quiñonez</h1>
 
-<br>
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=fd0d03&height=120&section=header&text=Santiago+Quiñonez&fontSize=40&fontColor=0d0c0c&fontAlign=50&fontAlignY=50"
+  />
+</div>
 
-<br>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=fd0d03&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack" alt="Typing SVG" />
+</div>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+---
+
+## 🧐 Sobre Mí 
+
+```javascript
+const SoftwareDeveloper = {
+    name: "Santiago Quiñonez",
+    age: 17,
+    location: "Bucaramanga, Colombia",
+};
+```
+
+### 🚀 Un poquito más sobre mí:
+- 💻 **Desarrollador apasionado** con 17 años y muchos sueños y metas por cumplir
+- 🎯 **Especializado en** desarrollo Front-End para crear aplicaciones web funcionales
+- 🌟 **Amante de** la tecnología y el diseño funcional
+- 🚀 **Objetivo:** Lograr mis sueños como programador
+
+---
+
+## 💼 Mis Skills 
+
+### 🎨 Desarrollo Front-end
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  
+</div>
+
+---
+
+### 🤖 Desarrollo Backend 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</div>
+
+---
+
+### 🛠️ Mis Herramientas
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=figma" />
+</div>
 
 
-- 🌱 Soy un desarrollador Full stack enfocado en el desarrollo FrontEnd
-
-- 📫 Como me puedes contactar: santiago.max.qui@gmail.com**
+---
 
 
-<br>
+## Repositorios destacados:
+¡Puedes ver mis repositorios fijados abajo para ver mis proyectos ! 👇✨
 
-<h3 align="left">Contactame!:</h3>
-<p align="left">
-  <a href="www.linkedin.com/in/santiago-quiñonez-505564376"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
+## 🏁 Simulación Fórmula 1 🏎️
+[Ver página Formula 1]()
 
-</p>
 
-<br>
+## 📌 Kario Media 
 
-<h3 align="left">Languages:</h3>
-<p
-      z
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html"
-    target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
-      height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
-      height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
-  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-      alt="pandas" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
-      width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> </p>
+[Ver página de Kario Media]()
 
-<br>
+Este proyecto consiste en el desarrollo para un panel de gestión de proyectos para la empresa Kario Media. Usando HTML y CSS nativos
 
-<h3>Datos estadisticos:-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
 
-<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
+---
 
-<br>
+## 💡  Mis Contactos! 
+
+<div align="center">
+  <a href="www.linkedin.com/in/santiago-quiñonez-505564376">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+
+  <a href="mailto:santiagoquinoneez952@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/Santi1718/Mi-Portafolio.git">
+    <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+---
