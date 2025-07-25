@@ -11,18 +11,8 @@
 
 ---
 
-## 🧐 Sobre Mí 
-
-```javascript
-const SoftwareDeveloper = {
-    name: "Santiago Quiñonez",
-    age: 17,
-    location: "Bucaramanga, Colombia",
-};
-```
-
 ### 🚀 Un poquito más sobre mí:
-- 💻 **Desarrollador apasionado** con 17 años y muchos sueños y metas por cumplir
+- 💻 **Desarrollador** con 17 años y muchos sueños y metas por cumplir
 - 🎯 **Especializado en** desarrollo Front-End para crear aplicaciones web funcionales
 - 🌟 **Amante de** la tecnología y el diseño funcional
 - 🚀 **Objetivo:** Lograr mis sueños como programador
